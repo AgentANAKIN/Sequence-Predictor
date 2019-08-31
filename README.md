@@ -14,3 +14,4 @@
 <li>triangular numbers</li>
 </ol>
 <p>I will be adding more rules, but my ultimate goal is to get the code to recognize rules that I do not so that it can predict numbers that I cannot.
+<p>Click <a href='https://agentanakinai.wordpress.com/2019/05/22/sequence-predictor-2/'>here</a> to read the WordPress blog article about this project.</p>
